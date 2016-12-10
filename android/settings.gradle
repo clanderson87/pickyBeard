@@ -1,0 +1,3 @@
+rootProject.name = 'pickyBeard'
+
+include ':app'
